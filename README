@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=796
+
+This colorscheme matches the PrettyBlueish
+Gtk-theme and the Purplehaze Fluxbox-theme
+It is based on the Zellner colorscheme maintained by Ron Aaron <ronaharon at yahoo.com>
+Kudos to him, I just did some minor modifications.
+Maybe someone will find this useful.
+Screenshots with GTK-Vim and vim in xterm:
+http://michaelsen.kicks-ass.net/bjoern/vimscreen2.png
+http://michaelsen.kicks-ass.net/bjoern/vimscreen1.png (big)
